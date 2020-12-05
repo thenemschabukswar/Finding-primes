@@ -14,4 +14,4 @@ Enter the min and max range separated by space. Make sure Max >= Min, and Min >=
 
 All test case ranges are separated by a newline character, while each prime is printed on a new line
 
-This code takes roughly 6 seconds to find primes between 1 and 1,000,000.
+This code takes roughly 3.3 seconds to find primes between 1 and 1,000,000.
